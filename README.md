@@ -1,56 +1,55 @@
-# 📊 Análise de Dados com Pandas e SQL
+# 📊 Analisando Dados com Pandas & SQL  
 
-## 📝 Sobre este Repositório
+![Pandas & SQL](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=for-the-badge&logo=pandas)  
+![SQL](https://img.shields.io/badge/SQL-Database-green?style=for-the-badge&logo=postgresql)  
+![Python](https://img.shields.io/badge/Python-Data%20Science-yellow?style=for-the-badge&logo=python)  
 
-Este repositório contém materiais de treinamento e projetos aplicados de análise de dados utilizando Pandas e SQL. O objetivo é aprimorar habilidades na manipulação e análise de dados com Python e consultas SQL.
+## 📌 Sobre este repositório  
 
-📚 Conteúdo
+Este repositório é um **portfólio de aprendizado e prática** sobre **manipulação e análise de dados com Pandas e SQL**, onde aplico os conhecimentos adquiridos no curso *Analisando Dados com Pandas & SQL* da **Asimov Academy**.  
 
-📖 Treinamento: Analisando Dados com Pandas
+Aqui, demonstro como manipular **DataFrames**, utilizar **SQL** com Python e aplicar operações essenciais para análise de dados. Além de seguir o conteúdo do curso, adiciono práticas extras e projetos para fortalecer o conhecimento. 🚀  
 
-Este treinamento, baseado no material da Asimov Academy, cobre desde conceitos básicos até técnicas avançadas de análise de dados com Pandas.✔ 
+---
 
-Tópicos abordados:
+## 📚 O que estou aprendendo?  
 
-- Estruturas básicas: Series e DataFrames
+### ✔ **Manipulação de Dados com Pandas**  
+- Criação e manipulação de **DataFrames** e **Series**  
+- Uso dos operadores `.loc` e `.iloc` para filtros  
+- Manipulação de índices e **índices multiníveis**  
+- Operações de agrupamento com **groupby**, **merge**, **concat** e **join**  
+- Tratamento de **dados ausentes**  
 
-- Seleção, filtros e indexação (iloc, loc)
+### ✔ **Integração do Pandas com SQL**  
+- Criando e manipulando **bancos de dados SQL** com Pandas  
+- **Transferência de dados** entre Pandas e SQL  
+- Uso de comandos **SQL**: `CREATE`, `DROP`, `INSERT`, `SELECT`, `UPDATE`, `DELETE`  
+- Construção de um **CRUD** básico com Pandas e Python  
 
-- Operações e manipulação de colunas
+### ✔ **Projetos práticos**  
+- **Exploração e análise de dados reais**  
+- **Visualização de dados** com Pandas  
+- **Comparação de desempenho** entre Pandas e SQL  
 
-- Agrupamento e agregações (groupby)
+---
 
-- Merge, concatenação e joins
+## 🏆 Objetivo  
 
-- Manipulação de dados ausentes
+O foco deste repositório é demonstrar na prática **habilidades em análise de dados**, mostrando como Pandas e SQL podem ser usados para manipular, transformar e analisar grandes volumes de dados de forma eficiente.  
 
-- Análise de séries temporais
+Se você quer aprender Pandas e SQL ou busca inspiração para seus projetos, este repositório pode ser um ótimo ponto de partida!  
 
-- Entrada e saída de dados (read_csv, to_csv, etc.)
+---
 
-## 🔬 Projetos de Análise de Dados
+## 🔧 Tecnologias utilizadas  
 
-### 📈 1. Análise da Obesidade e PIB per Capita
+- **Python** 🐍  
+- **Pandas** 📊  
+- **SQLite / PostgreSQL / MySQL** 🗄️  
+- **Jupyter Notebook / Google Colab** 📝  
 
-Este projeto explora a relação entre a taxa de obesidade e o PIB per capita em diferentes países, buscando identificar padrões e tendências globais.✔ 
+---
 
-Principais aspectos analisados:
-
-- Correlação entre obesidade e desenvolvimento econômico
-
-- Análises estatísticas e visualizações com matplotlib e seaborn
-
-- Uso de Pandas para limpeza e transformação dos dados
-
-### ⛽ 2. Análise de Preços da Gasolina
-
-Este estudo examina a variação dos preços da gasolina ao longo do tempo e sua relação com fatores econômicos.✔ 
-
-Principais pontos de análise:
-
-- Evolução do preço da gasolina em diferentes regiões
-
-- Comparação com índices econômicos e inflação
-
-- Uso de SQL para consultas e extração de insights
+🚀 **Vamos analisar dados!** Se quiser contribuir ou tiver dúvidas, fique à vontade para abrir uma *issue* ou um *pull request*! 😃  
 
